@@ -17,10 +17,10 @@ const work = [
     position: 'Co-founder & CTO',
     url: 'https://promptfoo.dev',
     startDate: '2024-07-01',
-    summary: 'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 30,000 developers and researchers worldwide.',
+    summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
     highlights: [
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
-      'Built and scaled engineering team, emphasizing diversity and open-source contributionLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
     ],
   },
   {
@@ -31,8 +31,8 @@ const work = [
     endDate: '2024-07-01',
     summary: 'Lor afadfadf afadfadfa afadfadf afafad',
     highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
     ],
   },
   {
@@ -40,8 +40,7 @@ const work = [
     position: 'Co-founder',
     url: 'http://skepticalinvestments.biz',
     startDate: '2017-04-01',
-    summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
-    YC companies.`,
+    summary: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.`,
     highlights: [
       'afafafafafaf.',
       'fadfafdgafdafg.',
@@ -53,12 +52,9 @@ const work = [
     url: 'https://matroid.com',
     startDate: '2015-07-01',
     endDate: '2016-01-01',
-    summary: `Matroid is a computer vision platform for creating and deploying detectors. Detectors help customers identify objects,
-    events, or patterns in images and videos without requiring machine learning or coding expertise. I played a crucial role in
-    defining the company's vision. I was responsible for architecting and building the initial product. I left shortly after the
-    Series A to focus on Arthena.`,
+    summary: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.`,
     highlights: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Caffe, Node.JS, Redis, MongoDB, and other technologies.',
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
     ],
   },
   {
