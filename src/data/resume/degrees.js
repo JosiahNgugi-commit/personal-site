@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Torrens University',
+    degree: 'M.S. Software Engineering and Cloud Computing Advance',
+    link: 'https://www.torrens.edu.au',
+    year: 2025,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
+    school: 'The Technical University of Kenya',
+    degree: 'B.S. Business Information Technology',
+    link: 'https://www.tukenya.ac.ke',
     year: 2012,
   },
 ];

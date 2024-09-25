@@ -1,4 +1,4 @@
-@import-normalize;
+@import 'normalize.css'; /* Local or CDN path */
 
 @import "libs/vars";
 @import "libs/functions";
@@ -65,9 +65,8 @@
 @import "layout/intro";
 @import "layout/footer";
 @import "layout/menu";
-
 @import "pages/contact";
 @import "pages/notFound";
 @import "pages/resume";
 @import "pages/skills";
-@import "pages/stats";
+

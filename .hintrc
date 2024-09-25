@@ -16,6 +16,15 @@
           "meta[name=theme-color]"
         ]
       }
+    ],
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "-ms-flex",
+          "-webkit-overflow-scrolling"
+        ]
+      }
     ]
   }
 }

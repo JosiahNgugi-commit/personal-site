@@ -13,9 +13,9 @@
  */
 const work = [
   {
-    name: 'Promptfoo',
+    name: 'Prompt',
     position: 'Co-founder & CTO',
-    url: 'https://promptfoo.dev',
+    url: 'https://promptf',
     startDate: '2024-07-01',
     summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
     highlights: [
@@ -24,9 +24,9 @@ const work = [
     ],
   },
   {
-    name: 'Smile Identity',
+    name: 'Smile',
     position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
+    url: 'https://smile',
     startDate: '2022-01-01',
     endDate: '2024-07-01',
     summary: 'Lor afadfadf afadfadfa afadfadf afafad',
@@ -36,35 +36,14 @@ const work = [
     ],
   },
   {
-    name: 'Skeptical Investments',
+    name: 'Skeptical',
     position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
+    url: 'http://skeptical',
     startDate: '2017-04-01',
     summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
     highlights: [
       'afafafafafaf.',
       'fadfafdgafdafg.',
-    ],
-  },
-  {
-    name: 'Matroid',
-    position: 'Co-founder',
-    url: 'https://matroid.com',
-    startDate: '2015-07-01',
-    endDate: '2016-01-01',
-    summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
-    highlights: [
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.',
-    ],
-  },
-  {
-    name: 'Facebook',
-    position: 'Software Engineer Intern',
-    url: 'https://facebook.com',
-    startDate: '2013-06-01',
-    endDate: '2013-09-01',
-    highlights: [
-      'adfhaodfboadfbob adfodbaodfboadbfo adbfoabdfobdf adfadf.',
     ],
   },
 ];
